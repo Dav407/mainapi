@@ -1,0 +1,14 @@
+
+
+
+.card{
+    width: 250px;
+    height: auto;
+    padding: 20px;
+    border: 1px solid;
+    box-shadow: 3px 3px 3px 3px lightgrey;
+}
+/* .product-img{
+    height: 300px;
+    width: 200px;
+} */

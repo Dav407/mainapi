@@ -1,0 +1,16 @@
+nav{
+    width: 100%;
+    height: 80px;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    width: 100px;
+    height: 60px;
+}
+a{
+    margin-right: 25px;
+    text-decoration: none;
+}
